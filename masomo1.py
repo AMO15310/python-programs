@@ -12,5 +12,3 @@ element = driver.find_element_by_id("password")
 element.send_keys(password)
 time.sleep(2)
 element = driver.find_element_by_id("loginbtn").click()
-
-
