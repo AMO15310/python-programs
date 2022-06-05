@@ -9,7 +9,7 @@ if shutdown == 'no' or shutdown == "No":
 
 elif shutdown == "yes" or shutdown == "Yes" :
     print("Your computer will shutdown")
-    os.system("shutdown /s /t 1")
+    os.system("shutdown now ")
 
 
 else:
