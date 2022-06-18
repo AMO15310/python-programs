@@ -1,1 +1,1 @@
-This repository contains some random Java Script programs.Check them out!!
+This repository contains some random python programs.Check them out!!
