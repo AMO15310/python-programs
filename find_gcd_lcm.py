@@ -1,0 +1,10 @@
+import numpy as np
+a = int(input("Please input your first number: "))
+b = int(input("Please input the second number: "))
+c = int(input("Enter a third number: "))
+arr = np.array([a,b,c])
+#print(arr)
+x = np.lcm.reduce(arr)
+y = np.gcd.reduce(arr)
+print("The lcm is ",x)
+print("The gcd is ",y)
