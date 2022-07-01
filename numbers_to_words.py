@@ -1,6 +1,8 @@
+import pandas as pd
 number = input("Your number: ")
 
 num = {
+"0":"zero",
 "1" : "one",
 "2" : "two",
 "3":"three",
